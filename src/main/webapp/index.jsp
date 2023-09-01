@@ -7,6 +7,7 @@ Welcome to Syed Azhar Abbas IT Software Training Institute (Hyderabad-Location).
 
 <p> Contact = +91-9391475226<p>
 <p> landline = 040-23518746
+<p> Goodluck = :)
 
 <a href="https://wa.me/+919391475226">Send whatsapp Message To ABBAS IT Admin Team for More info.... <a> <br/>
 
