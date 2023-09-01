@@ -1,7 +1,7 @@
 <html>
 <body>
 Welcome to Syed Azhar Abbas IT Software Training Institute (Hyderabad-Location)..!!<font></h1>
-<h2>Learn Here .. Anywhere..!! </h2>
+<h2>Learn Here .. At Telanaga Hyderabad..!! </h2>
 
 <p>Abbas IT is a leading Indian IT training Institute preparing tech-aspirants for flourishing carreers in this challenging and competitive domain since 2020.
 
