@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>font color='red'>Welcome to Abbas IT Software Training Institute..!!<font></h1>
+Welcome to Abbas IT Software Training Institute..!!<font></h1>
 <h2>Learn Here .. Anywhere..!! </h2>
 
 <p>Abbas IT is a leading Indian IT training Institute preparing tech-aspirants for flourishing carreers in this challenging and competitive domain since 2020.
