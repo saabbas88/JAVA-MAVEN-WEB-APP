@@ -1,6 +1,7 @@
 <html>
 <body>
-<h1>font color='red' >Welcome to Abbas IT Software Training Institute..!!<font></h1>
+<h1>font color='red' >
+<Welcome to Abbas IT Software Training Institute..!!<font></h1>
 <h2>Learn Here .. Anywhere..!! </h2>
 
 <p> Contact = +91-9391475226<p>
