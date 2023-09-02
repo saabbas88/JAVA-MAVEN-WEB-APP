@@ -1,9 +1,9 @@
 <html>
 <body>
-Welcome to Syed Azhar Abbas IT Software Training Institute (Hyderabad-Location)..!!<font></h1>
-<h2>Learn Here .. At Telanaga Hyderabad India.!! </h2>
+Welcome to Syed Azhar Abbas IT Software Training Institute No pain No Gain..!!<font></h1>
+<h2>Learn Here .. At Begumpet Telanaga Hyderabad India.!! </h2>
 
-<p>Abbas IT is a leading Indian IT training Institute preparing tech-aspirants for flourishing carreers in this challenging and competitive domain since 2020.
+<p>Ali Abbas IT is a leading Indian IT training Institute preparing tech-aspirants for flourishing carreers in this challenging and competitive domain since 2020.
 
 <p> Contact = +91-9391475206<p>
 <p> landline = 040-23518746
