@@ -1,6 +1,6 @@
 <html>
 <body>
-Welcome to Syed Azhar Abbas IT Software Training Institute No pain No Gain..!!<font></h1>
+Welcome to Meraj Bano IT Software Training Institute No pain No Gain..!!<font></h1>
 <h2>Learn Here .. At Begumpet Telanaga Hyderabad India.!! </h2>
 
 <p>Ali Abbas IT is a leading Indian IT training Institute preparing tech-aspirants for flourishing carreers in this challenging and competitive domain since 2020.
